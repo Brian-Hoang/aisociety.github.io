@@ -2,6 +2,8 @@
 
 body {
     background-color: white;
+    width: 1000px;
+    margin: 0 auto;
 }
 
 h1 {
@@ -26,8 +28,8 @@ p {
 img.center {
 	display: block;
 	margin: 0 auto;
-	width: 304px;
-	height: 228px;
-	padding-top: 60px;
-	padding-bottom: 35px;
+	width: 394px; /*304 originally*/
+	height: 250px; /*228 originally*/
+	padding-top: 30px; /*60 originally*/
+	padding-bottom: 0px; /*35 originally*/
 }
